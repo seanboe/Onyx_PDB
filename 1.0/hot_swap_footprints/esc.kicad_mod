@@ -18,4 +18,9 @@
   (pad "3" smd rect (at -5.8 16.7) (size 5 4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e160a455-a222-4da3-85c9-b21c372a9fdf))
   (pad "4" smd rect (at 0 16.7) (size 5 4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 31b6dcb8-9d92-4572-9d63-2b1186c9535a))
   (pad "5" smd rect (at 5.8 16.7) (size 5 4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 391884be-7260-425f-ac35-27dbd740cff6))
+  (model "${KIPRJMOD}/hot_swap_3dmodels/BESC30-R3.step"
+    (offset (xyz -8.5 17 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
 )

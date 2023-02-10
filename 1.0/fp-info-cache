@@ -1,4 +1,4 @@
-2214817845507795
+2216659769263617
 0_Fiducial
 Fiducial_0.5mm_Mask1.5mm
 Circular Fiducial, 0.5mm bare copper, 1.5mm soldermask opening
@@ -5368,6 +5368,13 @@ CUI_TBLH10-350-16BK
 0
 32
 32
+5_Connectors_Molex
+MegaF_RAH_Single_3x5.7mm
+
+
+0
+3
+3
 5_Connectors_Molex
 eurostyle_low_single_row_3.5_2
 
