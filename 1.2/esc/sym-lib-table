@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "1.semi.embedded")(type "KiCad")(uri "${KIPRJMOD}/hot_swap_symbols/1.semi.embedded.kicad_sym")(options "")(descr ""))
+)

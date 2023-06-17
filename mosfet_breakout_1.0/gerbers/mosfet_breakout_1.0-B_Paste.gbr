@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.10-0)*%
+%TF.CreationDate,2023-02-01T10:43:54-08:00*%
+%TF.ProjectId,mosfet_breakout_1.0,6d6f7366-6574-45f6-9272-65616b6f7574,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.10-0)) date 2023-02-01 10:43:54*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,5.000000X5.000000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,TP3*%
+X169082400Y-62626400D03*
+%TD*%
+%TO.C,TP2*%
+X169031600Y-52568000D03*
+%TD*%
+M02*
